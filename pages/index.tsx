@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       </Head>
 
       <header>
-        Welcome Man! I am good to go with nextjs.
+        Welcome Man! I am good to go with nextjs. 
       </header>
 
       <Link href='/about'>About Page</Link>
