@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       </Head>
 
       <header>
-        Welcome Man! I am good to go with nextjs. But actions need to update.
+        Welcome Man! I am good to go with nextjs. Go!
       </header>
 
       <Link href='/about'>About Page</Link>
